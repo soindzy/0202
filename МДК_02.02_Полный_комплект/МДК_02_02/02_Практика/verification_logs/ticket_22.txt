@@ -1,0 +1,17 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_first_example (__main__.Tests.test_first_example) ... ok
+test_invalid (__main__.Tests.test_invalid) ... ok
+test_rounding (__main__.Tests.test_rounding) ... ok
+test_second_example (__main__.Tests.test_second_example) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+Цена 1000.00, скидка 10% -> К оплате: 900.00 руб.
+Цена 250.50, скидка 10% -> К оплате: 225.45 руб.

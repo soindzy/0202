@@ -1,0 +1,17 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_opposite (__main__.Tests.test_opposite) ... ok
+test_two_positive (__main__.Tests.test_two_positive) ... ok
+test_zero (__main__.Tests.test_zero) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+(2 + 4) / 2 = 3.0; ожидается 3
+(-4 + 4) / 2 = 0.0; ожидается 0
+(0 + 0) / 2 = 0.0; ожидается 0

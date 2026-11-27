@@ -1,0 +1,23 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_journal (__main__.Tests.test_journal) ... ok
+test_measured_results (__main__.Tests.test_measured_results) ... ok
+
+----------------------------------------------------------------------
+Ran 2 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+# Журнал тестирования деления
+
+| Тест | a | b | Ожидаемый результат | Фактический результат | Статус |
+|---|---|---|---|---|---|
+| 1 | 10 | 2 | 5.0 | 5.0 | PASS |
+| 2 | 0 | 5 | 0.0 | 0.0 | PASS |
+| 3 | -9 | 3 | -3.0 | -3.0 | PASS |
+| 4 | 5 | 0 | ZeroDivisionError | ZeroDivisionError | PASS |
+| 5 | 'abc' | 2 | TypeError | TypeError | PASS |
+

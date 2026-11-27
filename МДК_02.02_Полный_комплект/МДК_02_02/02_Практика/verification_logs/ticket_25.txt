@@ -1,0 +1,16 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_boundaries (__main__.Tests.test_boundaries) ... ok
+test_invalid (__main__.Tests.test_invalid) ... ok
+test_message (__main__.Tests.test_message) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+Пользователь: Анна. Возраст: 20.
+Пользователь: Иван. Возраст: 35.

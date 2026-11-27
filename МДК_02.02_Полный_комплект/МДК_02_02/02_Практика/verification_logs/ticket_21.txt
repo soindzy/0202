@@ -1,0 +1,17 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_empty (__main__.Tests.test_empty) ... ok
+test_mixed (__main__.Tests.test_mixed) ... ok
+test_regression (__main__.Tests.test_regression) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+[1, 2, 3] -> сумма 6
+[] -> сумма 0
+[-2, 5, -3] -> сумма 0

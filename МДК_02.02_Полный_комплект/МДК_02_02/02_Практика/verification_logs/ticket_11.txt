@@ -1,0 +1,23 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_real_conflict_resolution (__main__.Tests.test_real_conflict_resolution) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 1.380s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+Конфликт до исправления:
+<<<<<<< HEAD
+timeout = 20
+=======
+timeout = 30
+>>>>>>> feature
+
+Согласованный результат:
+timeout = 30
+
+Рабочий каталог чист: True

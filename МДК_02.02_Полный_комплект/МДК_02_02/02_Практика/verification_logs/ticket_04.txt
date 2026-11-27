@@ -1,0 +1,18 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_errors (__main__.Tests.test_errors) ... ok
+test_integration (__main__.Tests.test_integration) ... ok
+test_operations (__main__.Tests.test_operations) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+10 + 2 -> Результат: 12
+9 / 3 -> Результат: 3
+1 / 0 -> Ошибка: Деление на ноль запрещено
+abc -> Ошибка: Ожидается: число операция число

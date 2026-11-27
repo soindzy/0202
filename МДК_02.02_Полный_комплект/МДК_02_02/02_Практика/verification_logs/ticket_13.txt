@@ -1,0 +1,19 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_fraction (__main__.Tests.test_fraction) ... ok
+test_negative (__main__.Tests.test_negative) ... ok
+test_positive (__main__.Tests.test_positive) ... ok
+test_zero (__main__.Tests.test_zero) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+Вход: 2; ожидается: 4; получено: 4; PASS
+Вход: 0; ожидается: 0; получено: 0; PASS
+Вход: -3; ожидается: 9; получено: 9; PASS
+Вход: 1.5; ожидается: 2.25; получено: 2.25; PASS

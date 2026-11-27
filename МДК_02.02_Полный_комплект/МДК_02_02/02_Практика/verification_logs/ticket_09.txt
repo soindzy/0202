@@ -1,0 +1,14 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_actual_repository (__main__.Tests.test_actual_repository) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 0.513s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+{'files': ['hello.py'], 'commits': 1, 'clean': True}
+Учебный временный репозиторий удалён автоматически.

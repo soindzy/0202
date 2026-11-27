@@ -1,0 +1,19 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_even (__main__.Tests.test_even) ... ok
+test_negative (__main__.Tests.test_negative) ... ok
+test_odd (__main__.Tests.test_odd) ... ok
+test_zero (__main__.Tests.test_zero) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+8: чётное
+7: нечётное
+0: чётное
+-4: чётное

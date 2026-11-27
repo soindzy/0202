@@ -1,0 +1,16 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_other_inputs (__main__.Tests.test_other_inputs) ... ok
+test_required_error (__main__.Tests.test_required_error) ... ok
+test_required_number (__main__.Tests.test_required_number) ... ok
+
+----------------------------------------------------------------------
+Ran 3 tests in 0.001s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+'15' -> 15
+'abc' -> Ошибка: Введите целое число, например 15

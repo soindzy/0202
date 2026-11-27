@@ -1,0 +1,5 @@
+Документация проекта:
+1. Установите Python.
+2. Установить зависимость - python3 -m pip install pytest -i https://pypi.org/simple/
+3. Запустите тесты: python3 -m pytest 
+4. Используйте функцию calculate() из main_module.

@@ -1,0 +1,21 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_already_sorted (__main__.Tests.test_already_sorted) ... ok
+test_duplicates (__main__.Tests.test_duplicates) ... ok
+test_empty (__main__.Tests.test_empty) ... ok
+test_negative (__main__.Tests.test_negative) ... ok
+test_unsorted (__main__.Tests.test_unsorted) ... ok
+
+----------------------------------------------------------------------
+Ran 5 tests in 0.000s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+Вход []; ожидается []; получено []
+Вход [3, 1, 2]; ожидается [1, 2, 3]; получено [1, 2, 3]
+Вход [2, 1, 2, 1]; ожидается [1, 1, 2, 2]; получено [1, 1, 2, 2]
+Вход [-1, -5, 0]; ожидается [-5, -1, 0]; получено [-5, -1, 0]
+Вход [1, 2, 3]; ожидается [1, 2, 3]; получено [1, 2, 3]

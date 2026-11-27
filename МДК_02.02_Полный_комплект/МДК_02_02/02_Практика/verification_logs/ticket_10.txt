@@ -1,0 +1,13 @@
+СИНТАКСИС
+OK
+
+ТЕСТЫ
+test_branch_and_merge (__main__.Tests.test_branch_and_merge) ... ok
+
+----------------------------------------------------------------------
+Ran 1 test in 1.009s
+
+OK
+
+ДЕМОНСТРАЦИЯ
+{'branch': 'main', 'feature': 'Новая функция', 'parents': 2, 'clean': True}

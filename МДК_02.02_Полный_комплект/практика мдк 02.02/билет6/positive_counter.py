@@ -1,0 +1,1 @@
+def c(s): return sum(1 for x in s if x > 0)
